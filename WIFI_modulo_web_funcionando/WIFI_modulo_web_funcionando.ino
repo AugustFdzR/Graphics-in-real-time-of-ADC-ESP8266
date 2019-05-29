@@ -5,8 +5,8 @@
 #include <ESP8266WiFiMulti.h>
 
 // Replace with your network credentials
-const char* ssid = "ASIIMO";
-const char* password = "19960430";
+const char* ssid = "";
+const char* password = "";
 
 ESP8266WebServer server(80);
 String webPage = "";
